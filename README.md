@@ -43,8 +43,9 @@ When processing sequence data, it is very common for individual samples to have 
 
 We used two different deep recurrent network architectures, they are :
 
-•	Bidirectional LSTM 
+### Bidirectional LSTM 
 The model are inspired by the paper Bidirectional Recurrent Models for Offensive Tweet Classiﬁcation
+
 We build model which are contains layers:
 -	1 Embedding layer responsible for the word embedding
 -	1 spatialDropout1D layer Decreasing the number of features that we train on
@@ -58,7 +59,8 @@ The details architecture of the model bi-directional (picture)
 ![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTMmodel.png "Bi-LSTM Model")
 
 
-•	Model 2 bi gru +LSTM +cnn
+### Model 2 bi gru +LSTM +cnn*
+
 We build model which are contains layers:
 -	1 Embedding layer responsible for the word embedding
 -	1 spatialDropout1D layer Decreasing the number of features that we train on
