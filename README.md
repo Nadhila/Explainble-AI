@@ -77,3 +77,6 @@ The details architecture of the model Bi-GRU+LSTM+CNN (picture)
 ![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-GRULSTMCNN.png "Bi-GRU+LSTM+CNN Model")
 
 
+# REFERENCES
+
+
