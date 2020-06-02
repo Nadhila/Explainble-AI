@@ -35,13 +35,14 @@ Contributor:
 When processing sequence data, it is very common for individual samples to have different lengths.A requirement for our LSTM models was that the input sentence length has to be ﬁxed for all training dataset. We use sequence_pads () function from keras with maxlen= input_length which is 100. 
 
 
-### Embedding (embedding layer) word2vec details :
+### Embedding (embedding layer) word2vec:
 
   We trained our own word embeddings during the execution of the whole model, with a randomly initialized embedding layer.
 
 ### Model Architecture:
 
 We used two different deep recurrent network architectures, they are :
+
 •	Bidirectional LSTM 
 The model are inspired by the paper Bidirectional Recurrent Models for Offensive Tweet Classiﬁcation
 We build model which are contains layers:
@@ -52,6 +53,10 @@ We build model which are contains layers:
 -	1 dropout layer which located between the dense layer 
 -	Last dense layer with softmax
 The details architecture of the model bi-directional (picture)
+
+![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTMmodel.png "Bi-LSTM Model")
+
+
 •	Model 2 bi gru +LSTM +cnn
 We build model which are contains layers:
 -	1 Embedding layer responsible for the word embedding
@@ -66,5 +71,6 @@ We build model which are contains layers:
 The details architecture of the model Bi-GRU+LSTM+CNN (picture)
 
 
+![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-GRULSTMCNN.png "Bi-GRU+LSTM+CNN Model")
 
 
