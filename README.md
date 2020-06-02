@@ -59,7 +59,7 @@ The details architecture of the model bi-directional (picture)
 ![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTMmodel.png "Bi-LSTM Model")
 
 
-### Model 2 bi gru +LSTM +cnn*
+### Model 2 bi gru +LSTM +cnn
 
 We build model which are contains layers:
 -	1 Embedding layer responsible for the word embedding
