@@ -49,9 +49,10 @@ We build model which are contains layers:
 -	1 Embedding layer responsible for the word embedding
 -	1 spatialDropout1D layer Decreasing the number of features that we train on
 -	Bidirectional LSTM layer A variant of the LSTM That uses two LSTMs one forward and one backward.
--	2 dense layer 
--	1 dropout layer which located between the dense layer 
--	Last dense layer with softmax
+- Flatten layer
+-	2 Dense layer.Last dense layer with softmax
+-	1 dropout layer with 50% which located between the dense layer 
+
 The details architecture of the model bi-directional (picture)
 
 ![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTMmodel.png "Bi-LSTM Model")
@@ -64,9 +65,9 @@ We build model which are contains layers:
 -	Bidirectional GRU layer A variant of the LSTM That uses two LSTMs one forward and one backward.
 -	1D Convolutional layer
 -	1 Global average polling 1D layer and 1 global max polling 1D layer  (this two layer are concatenate to be one layer) 
--	2 dense layer 
--	1 dropout layer which located between the dense layer
--	Last dense layer with softmax
+-	2 dense layer. Last dense layer with softmax
+-	1 dropout layer with 50% which located between the dense layer
+
 
 The details architecture of the model Bi-GRU+LSTM+CNN (picture)
 
