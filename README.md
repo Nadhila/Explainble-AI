@@ -63,7 +63,8 @@ We build model which are contains layers:
 -	1 dropout layer which located between the dense layer
 -	Last dense layer with softmax
 
-The details architecture of the model bi GRU+LSTM+ cnn (picture)
+The details architecture of the model Bi-GRU+LSTM+CNN (picture)
+
 
 
 
