@@ -10,7 +10,7 @@ Explainable Methods we use :
 
 To compare the methods we use the commons datasets :
 
-* Review of Indonesian e-comerce for classification dataset “blibli.com”
+* Review of Indonesian Application in google playstore for classification dataset 
 * US Airlines for Sentiment classification [dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
 
