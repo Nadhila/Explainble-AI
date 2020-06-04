@@ -56,7 +56,7 @@ We build model which are contains layers:
 
 The details architecture of the model bi-directional (picture)
 
-![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTMmodel.png "Bi-LSTM Model")
+![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-LSTM-model.png "Bi-LSTM Model")
 
 
 ### Model 2 bi gru +LSTM +cnn
@@ -74,7 +74,7 @@ We build model which are contains layers:
 The details architecture of the model Bi-GRU+LSTM+CNN (picture)
 
 
-![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-GRULSTMCNN.png "Bi-GRU+LSTM+CNN Model")
+![Alt text](https://github.com/Nadhila/Explainble-AI/blob/master/bi-GRU-LSTM-CNN.png "Bi-GRU+LSTM+CNN Model")
 
 
 ## References
