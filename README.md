@@ -79,14 +79,22 @@ The details architecture of the model Bi-GRU+LSTM+CNN (picture)
 
 ## References
 Assawinjaipetch, P., Shirai, K., Sornlertlamvanich, V., & Marukata, S. (2016, December). Recurrent neural network with word embedding for complaint classification. In Proceedings of the Third International Workshop on Worldwide Language Service Infrastructure and Second Workshop on Open Infrastructures and Analysis Frameworks for Human Language Technologies (WLSI/OIAF4HLT2016) (pp. 36-43).(https://www.aclweb.org/anthology/W16-5205/)
+
 Cambray, A., & Podsadowski, N. (2019). Bidirectional Recurrent Models for Offensive Tweet Classification. arXiv preprint arXiv:1903.08808. (https://arxiv.org/abs/1903.08808)
 Ding, Z., Xia, R., Yu, J., Li, X., & Yang, J. (2018, August). Densely connected bidirectional lstm with applications to sentence classification. In CCF International Conference on Natural Language Processing and Chinese Computing (pp. 278-287). Springer, Cham. (https://link.springer.com/chapter/10.1007/978-3-319-99501-4_24)
+
 Hu, J. (2018). Explainable Deep Learning for Natural Language Processing. (http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1335846&dswid=1510)
+
 Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. In Advances in neural information processing systems (pp. 4765-4774). (http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predicti)
+
 Mathews, S. M. (2019, July). Explainable Artificial Intelligence Applications in NLP, Biomedical, and Malware Classification: A Literature Review. In Intelligent Computing-Proceedings of the Computing Conference (pp. 1269-1292). Springer, Cham.(https://link.springer.com/chapter/10.1007/978-3-030-22868-2_90)
+
 Molnar, C. (2020). Interpretable machine learning. Lulu. com.(https://christophm.github.io/interpretable-ml-book/)
+
 Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). Anchors: High-precision model-agnostic explanations. In Thirty-Second AAAI Conference on Artificial Intelligence.(https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16982)
+
 Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). " Why should i trust you?" Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144).(https://arxiv.org/abs/1602.04938)
+
 (https://github.com/slundberg/shap)
 
 
