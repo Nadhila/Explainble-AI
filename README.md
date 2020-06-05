@@ -99,6 +99,6 @@ Ribeiro, M. T., Singh, S., & Guestrin, C. (2018, April). Anchors: High-precision
 
 Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). " Why should i trust you?" Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144).(https://arxiv.org/abs/1602.04938)
 
+Van Huynh, T., Nguyen, VD, Van Nguyen, K., Nguyen, NLT, & Nguyen, AGT (2019). Hate Speech Detection on Vietnamese Social Media Text using the Bi-GRU-LSTM-CNN Model. arXiv preprint arXiv: 1911.03644 . (https://arxiv.org/abs/1911.03644)
+
 (https://github.com/slundberg/shap)
-
-
