@@ -1,6 +1,8 @@
 # Review 3 Different Methods for Explainability Artificial Intelligence (XAI)
 
-Some plot use javascript since github lock javascript for protection here link to Google Colab for better visualization [Colab](https://colab.research.google.com/drive/1wRCuvkmMa92okus_YA0CwT8-IyLcB0cK?usp=sharing)
+Some plot use javascript since github lock javascript for protection here link to Google Colab for better visualization
+[USAIR](https://colab.research.google.com/drive/1wRCuvkmMa92okus_YA0CwT8-IyLcB0cK?usp=sharing)
+[Indonesian review]
 
 In this repository, we use 3 different methods of XAI on Machine Learning Model for Text Classification (Sentiment classification using Bi-LSTM and BI-GRU+LSTM+CNN). 
 
